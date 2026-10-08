@@ -206,6 +206,14 @@ nvcc -O2 src/cuda/matrix_cuda.cu -o cuda_matrix_mul
 ```
 
 CUDA provides massive parallelism because many matrix elements can be calculated concurrently on the GPU.
+### CUDA Environment
+![CUDA Environment](images/cuda_environment.png)
+
+### CUDA Source Code
+![CUDA Source Code](images/cuda_source_code.png)
+
+### CUDA Result
+![CUDA Result](images/cuda_result.png)
 
 ---
 
